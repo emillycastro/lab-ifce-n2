@@ -8,5 +8,6 @@ Para rodar o projeto:
 - Confira as inportações se está tudo correto
 - Dê um play no projeto
 - No seu navegador coloque http://localhost:8080/
+  
 Faça bom uso :)
 
